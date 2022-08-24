@@ -11,7 +11,7 @@
   ],
   "require": {
     "php":">=7.4",
-    "tiagosampaio/data-object": "^1.0"
+    "bizcommerce/data-object": "^1.1.2"
   },
   "require-dev": {
     "codacy/coverage": "dev-master",
